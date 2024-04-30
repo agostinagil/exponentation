@@ -38,7 +38,7 @@ function App() {
 
   return (
     <>
-      <h1>Calculate the exponentation of a number</h1>
+      <h1>Calculate the exponentiation of a number</h1>
       {showBtn && <button onClick={handleClick}>Start</button>}
       {showForm && (
         <Form
